@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MARDDEGIR
-- 👀 I’m interested in Сadence Virtuoso, design analog elecronics, layout, rtl, genus, innovus and much more. 
+- 👀 I’m interested in CS. 
 - 🌱 I’m studying for a master's degree in the specialty CS/EE.
 - 💞️ I’m  ready to cooperate with like-minded people.
-- 📫 How to reach me telegram: @Varus_1, email: samsamsungs431@gmail.com
+- 📫 How to reach me email: samsamsungs431@gmail.com
 - 😄 Pronouns: I don't know what to write here
 - ⚡ Fun fact: While you were reading this, I designed an integrated circuit.
 
